@@ -1,3 +1,4 @@
 nim https://github.com/shishidosoichiro/vendor-nim.git
 duktape https://github.com/shishidosoichiro/vendor-duktape.git
 node https://github.com/shishidosoichiro/vendor-node.git
+upx https://github.com/shishidosoichiro/vendor-upx.git
