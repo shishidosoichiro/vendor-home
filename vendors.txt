@@ -6,6 +6,7 @@ docker git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/docker.git
 docker-machine git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/docker-machine.git
 go git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/go.git
 helm git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/helm.git
+helmfile git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/helmfile.git
 kubectl git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/kubectl.git
 kubectx git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/kubectx.git
 minikube git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/minikube.git
