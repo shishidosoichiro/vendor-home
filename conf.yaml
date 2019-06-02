@@ -1,0 +1,6 @@
+bin: bin
+env: |
+  if echo "$PATH" | grep -q "{{appHome}}"; then
+    PATH=$(echo "$PATH" | sed -e "s|{{appHome}}[^:]*:||g");
+  fi;
+  export PATH="{{bin}}:$PATH";
