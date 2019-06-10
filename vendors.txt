@@ -10,3 +10,4 @@ helmfile git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/helmfile.git
 kubectl git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/kubectl.git
 kubectx git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/kubectx.git
 minikube git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/minikube.git
+vendor https://github.com/shishidosoichiro/vendor-vendor.git

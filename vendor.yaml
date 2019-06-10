@@ -1,0 +1,6 @@
+bin: {home}/bin
+env: |
+  if echo "$PATH" | grep -q "{home}"; then
+    PATH=$(echo "$PATH" | sed -e "s|{home}[^:]*:||g");
+  fi;
+  export PATH="{bin}:$PATH";
