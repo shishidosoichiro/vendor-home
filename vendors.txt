@@ -2,6 +2,7 @@ nim https://github.com/shishidosoichiro/vendor-nim.git
 duktape https://github.com/shishidosoichiro/vendor-duktape.git
 node https://github.com/shishidosoichiro/vendor-node.git
 upx https://github.com/shishidosoichiro/vendor-upx.git
+jq https://github.com/shishidosoichiro/vendor-jq.git
 docker git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/docker.git
 docker-machine git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/docker-machine.git
 go git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/go.git
