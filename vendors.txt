@@ -3,12 +3,13 @@ duktape https://github.com/shishidosoichiro/vendor-duktape.git
 node https://github.com/shishidosoichiro/vendor-node.git
 upx https://github.com/shishidosoichiro/vendor-upx.git
 jq https://github.com/shishidosoichiro/vendor-jq.git
-docker git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/docker.git
-docker-machine git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/docker-machine.git
+docker https://github.com/shishidosoichiro/vendor-docker.git
+docker-machine https://github.com/shishidosoichiro/vendor-docker-machine.git
 go https://github.com/shishidosoichiro/vendor-go.git
 helm https://github.com/shishidosoichiro/vendor-helm.git
-helmfile git@seap-git.rdd.soliton.co.jp:personal/sshishido/apps/helmfile.git
+helmfile https://github.com/shishidosoichiro/vendor-helmfile.git
 kubectl https://github.com/shishidosoichiro/vendor-kubectl.git
 kubectx https://github.com/shishidosoichiro/vendor-kubectx.git
 minikube https://github.com/shishidosoichiro/vendor-minikube.git
 vendor https://github.com/shishidosoichiro/vendor-vendor.git
+ipfs https://github.com/shishidosoichiro/vendor-ipfs.git
