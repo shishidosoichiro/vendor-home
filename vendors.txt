@@ -4,6 +4,7 @@ node https://github.com/shishidosoichiro/vendor-node.git
 upx https://github.com/shishidosoichiro/vendor-upx.git
 jq https://github.com/shishidosoichiro/vendor-jq.git
 docker https://github.com/shishidosoichiro/vendor-docker.git
+docker-compose https://github.com/shishidosoichiro/vendor-docker-compose.git
 docker-machine https://github.com/shishidosoichiro/vendor-docker-machine.git
 go https://github.com/shishidosoichiro/vendor-go.git
 helm https://github.com/shishidosoichiro/vendor-helm.git
