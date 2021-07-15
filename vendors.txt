@@ -13,3 +13,4 @@ kubectx https://github.com/shishidosoichiro/vendor-kubectx.git
 minikube https://github.com/shishidosoichiro/vendor-minikube.git
 vendor https://github.com/shishidosoichiro/vendor-vendor.git
 ipfs https://github.com/shishidosoichiro/vendor-ipfs.git
+yq https://github.com/shishidosoichiro/vendor-yq.git
